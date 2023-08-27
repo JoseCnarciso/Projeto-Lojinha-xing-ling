@@ -2,70 +2,70 @@
   "produtos": [
     {
       "id": 1,
-      "imagem": "https://www.lojatoyscollections.com.br/cdn/shop/products/Funko-Pop-BoRuto--Naruto---Hokage--724-5e4d188fcbb82_720x.jpg?v=1656621416",
+      "imagem": "https://acdn.mitiendanube.com/stores/001/905/923/products/b740ea3b3fb8b4543c50a8275b94be22-0775f03376b08b627e16836614430220-640-0.webp",
       "nome": "Naruto Uzumaki",
       "preco": 89.90,
       "parcela": 8.99
     },
     {
       "id": 2,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://acdn.mitiendanube.com/stores/001/905/923/products/6439eb1ca54560896eac1f7835275be9-c02bf19e8c631256a216836613079654-640-0.webp",
       "nome": "Sasuke Uchiha",
       "preco": 50.00,
       "parcela": 5.00
     },
     {
       "id": 3,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-sakura-183-naruto-shippuden-73425/259912.jpg?w=800&h=800&v=no-change&qs=ignore",
       "nome": "Sakura Haruno",
       "preco": 75.00,
       "parcela": 7.50
     },
     {
       "id": 4,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://acdn.mitiendanube.com/stores/001/905/923/products/2c0a4aeaa3b514a7c1e7010792c07747-4ef346b53cd180fbc416836614133035-640-0.webp",
       "nome": "Kakashi Hatake",
       "preco": 60.00,
       "parcela": 6.00
     },
     {
       "id": 5,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/514seLK6R8L._AC_SL1200_.jpg",
       "nome": "Itachi Uchiha",
       "preco": 95.00,
       "parcela": 9.50
     },
     {
       "id": 6,
-      "imagem": "caminho/para/outra/imagem.jpg",
-      "nome": "Hinata Hyuga",
+      "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-rock-lee-739-special-edition-naruto-shippuden-72509/258996.jpg?w=800&h=800&v=no-change&qs=ignore",
+      "nome": "Rock Lee",
       "preco": 45.00,
       "parcela": 4.50
     },
     {
       "id": 7,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-gaara-728-naruto-shippuden-71535/258020.jpg?w=800&h=800&v=no-change&qs=ignore",
       "nome": "Gaara do Deserto",
       "preco": 70.00,
       "parcela": 7.00
     },
     {
       "id": 8,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61DYEjMUuoL._AC_SL1500_.jpg",
       "nome": "Jiraiya",
       "preco": 55.00,
       "parcela": 5.50
     },
     {
       "id": 9,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-orochimaru-729-naruto-shippuden-71534/258019.jpg?w=800&h=800&v=no-change&qs=ignore",
       "nome": "Orochimaru",
       "preco": 65.00,
       "parcela": 6.50
     },
     {
       "id": 10,
-      "imagem": "caminho/para/outra/imagem.jpg",
+      "imagem": "https://images-americanas.b2w.io/produtos/6589259882/imagens/funko-pop-animation-naruto-lady-tsunade/6589259882_1_large.jpg",
       "nome": "Tsunade Senju",
       "preco": 80.00,
       "parcela": 8.00
