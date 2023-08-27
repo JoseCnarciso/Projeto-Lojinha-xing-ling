@@ -19,6 +19,9 @@ const vuetify = createVuetify({
   icons: {
     defaultSet: 'mdi'
   },
+  theme: {
+    defaultTheme: 'dark'
+  }
 })
 
 const app = createApp(App)
